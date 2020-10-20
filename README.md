@@ -30,7 +30,7 @@
 
 - 参照https://jingyan.baidu.com/article/d8072ac48e5433ec95cefdb4.html安装并正确配置环境
 
-  - ![{E5BA4921-171F-4417-BB9D-65AFD120B663}.png](.\材料\图片\{E5BA4921-171F-4417-BB9D-65AFD120B663}.png.jpg)
+  - ![{E5BA4921-171F-4417-BB9D-65AFD120B663}.png](https://github.com/AndyFMtogay/esp8266-iot/tree/master/%E6%9D%90%E6%96%99/%E5%9B%BE%E7%89%87/{E5BA4921-171F-4417-BB9D-65AFD120B663}.png.jpg)
 
 - 并测试conda环境是否配置
 
